@@ -6,18 +6,5 @@
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 
-### things i use
-
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
-
-### projects
-
-[![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://kyleandersen2007.github.io/)
-[![](https://img.shields.io/badge/-🦠%20CrestwoodGPT%20-000)](https://github.com/kyleandersen2007/CPC-GPTBot)
-[![](https://img.shields.io/badge/-📝%20RoboCup%202024-000)](https://github.com/Dmarky9873/RoboCup-Junior-2024)
-[![](https://img.shields.io/badge/-🔬%20L4D2%20Queue%20Maker-000)](https://github.com/L4D2Versus/L4D2-Versus-Bot)
 
 
